@@ -1,0 +1,50 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/_app": [
+      "static/runtime/webpack-2ef50c24cc8d478adafc.js",
+      "static/chunks/commons.bf31f7ffa67cc38f5ad4.js",
+      "static/runtime/main-9442712121472ee89b26.js"
+    ],
+    "/account": [
+      "static/runtime/webpack-2ef50c24cc8d478adafc.js",
+      "static/chunks/commons.bf31f7ffa67cc38f5ad4.js",
+      "static/runtime/main-9442712121472ee89b26.js"
+    ],
+    "/home": [
+      "static/runtime/webpack-2ef50c24cc8d478adafc.js",
+      "static/chunks/commons.bf31f7ffa67cc38f5ad4.js",
+      "static/runtime/main-9442712121472ee89b26.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-2ef50c24cc8d478adafc.js",
+      "static/chunks/commons.bf31f7ffa67cc38f5ad4.js",
+      "static/runtime/main-9442712121472ee89b26.js"
+    ],
+    "/pw-forget": [
+      "static/runtime/webpack-2ef50c24cc8d478adafc.js",
+      "static/chunks/commons.bf31f7ffa67cc38f5ad4.js",
+      "static/runtime/main-9442712121472ee89b26.js"
+    ],
+    "/signin": [
+      "static/runtime/webpack-2ef50c24cc8d478adafc.js",
+      "static/chunks/commons.bf31f7ffa67cc38f5ad4.js",
+      "static/runtime/main-9442712121472ee89b26.js"
+    ],
+    "/signup": [
+      "static/runtime/webpack-2ef50c24cc8d478adafc.js",
+      "static/chunks/commons.bf31f7ffa67cc38f5ad4.js",
+      "static/runtime/main-9442712121472ee89b26.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-2ef50c24cc8d478adafc.js",
+      "static/chunks/commons.bf31f7ffa67cc38f5ad4.js",
+      "static/runtime/main-9442712121472ee89b26.js"
+    ],
+    "/": [
+      "static/runtime/webpack-2ef50c24cc8d478adafc.js",
+      "static/chunks/commons.bf31f7ffa67cc38f5ad4.js",
+      "static/runtime/main-9442712121472ee89b26.js"
+    ]
+  }
+}
